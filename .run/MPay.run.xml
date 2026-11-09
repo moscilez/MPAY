@@ -1,8 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="MPay" type="AndroidRunConfigurationType" factoryName="Android App">
-    <module name="MPAY.app.main" />
-    <option name="DEPLOY" value="true" />
-    <option name="MODE" value="default_activity" />
-    <method v="2"><option name="Android.Gradle.BeforeRunTask" enabled="true" /></method>
-  </configuration>
-</component>

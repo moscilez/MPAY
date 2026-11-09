@@ -1,7 +1,4 @@
-.gradle/
-.gradle-local/
-**/build/
-.idea/
-local.properties
-.signing/
-dist/
+node_modules
+.env
+.expo
+.rork

@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "MPAY",
+      "path": "android-mpay",
+      "framework": "kotlin"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
